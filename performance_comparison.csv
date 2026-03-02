@@ -1,0 +1,7 @@
+Metric,a-COO Method,Colored Method,Ratio (Colored/a-COO)
+Execution Time (ms),42.3414,123.813,2.92416
+Throughput (elements/ms),604.609,206.764,0.341979
+Memory Usage (KB),38805,0.03125,8.05308e-07
+Atomic Operations,1638400,0,N/A
+Load Imbalance Factor,N/A,1,N/A
+Number of Colors,N/A,4,N/A
