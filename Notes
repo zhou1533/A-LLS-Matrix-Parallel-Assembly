@@ -1,0 +1,5 @@
+The code uses single precision (float) in the current implementation.
+
+The block size is set conservatively to reduce register spilling for Hex20 elements.
+
+The parameter MAX_LIST_LENGTH is currently fixed in source code and may need adjustment for larger or denser meshes.
