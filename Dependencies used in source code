@@ -1,0 +1,29 @@
+The implementation depends only on:
+
+CUDA runtime (cuda_runtime.h)
+
+C++ standard library headers:
+
+<iostream>
+
+<vector>
+
+<cmath>
+
+<algorithm>
+
+<iomanip>
+
+<map>
+
+<numeric>
+
+<set>
+
+<climits>
+
+<fstream>
+
+<chrono>
+
+No third-party libraries are required
