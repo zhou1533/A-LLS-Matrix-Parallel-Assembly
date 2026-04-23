@@ -2,3 +2,11 @@ This is a C++ program for GPU parallel assembly of the global stiffness matrix i
 
 License
 This project is licensed under the MIT License.
+
+Numerical Examples	in the article：
+ 
+Numerical Example 1 ：Quadrilateral Mesh ALLS_Quad2D_Assembly_Accuracy_Analysis.cu and ALLS_Quad2D_Assembly_Performance_Analysis.cu	（2-D）
+Numerical Example 2：Unstructured Triangular Mesh	ALLS_T3_Unstructed_Elements_Assemble_Performanc.cu	（2-D）
+Numerical 3：Hybrid Mesh	ALLS_Q4_T3_Mixed_Elements_Assembly_Performance.cu	（2-D）
+Numerical Example 4：Hexahedral Mesh ALLS_Hex20_3D_Assembly_Performance.cu	（3-D）
+
